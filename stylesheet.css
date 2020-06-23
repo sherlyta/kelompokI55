@@ -27,7 +27,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 100px 0 100px 0;
   background-image: url(back.jpg);
   background-size: cover;
   color: white;
@@ -142,7 +142,7 @@ header {
 }
 
 .heading p {
-  line-height: 25px;
+  line-height: 30px;
 }
 
 .lesson {
