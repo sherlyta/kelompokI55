@@ -40,7 +40,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  color: maroon;
+  color: white;
 }
 
 .top-wrapper p {
@@ -113,7 +113,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: aqua;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
