@@ -141,6 +141,10 @@ header {
   font-weight: normal;
 }
 
+.heading p {
+  line-height: 25px;
+}
+
 .lesson {
   float: left;
   width: 20%;
